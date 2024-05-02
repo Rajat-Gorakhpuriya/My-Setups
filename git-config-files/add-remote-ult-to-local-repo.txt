@@ -1,0 +1,7 @@
+1. Create a repository on github.
+2. Follow the steps to set remote url it automatically appear after creating repository.
+    if not show the steps then. copy the http clone url and execute following cmds.
+    
+    git remote add origin https://github.com/Rajat-Gorakhpuriya/my-youtube.git
+    git branch -M master
+    git push -u origin master
