@@ -9,3 +9,5 @@
 	editor = code
 [diff]
 	tool = default-difftool
+[alias]
+	mylog = git log --author = "Rajat Gorakhpuriya"
