@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[user]
+	email = rajat.gorakhpuriya@gmail.com
+	name = Rajat Gorakhpuriya
+# Please adapt and uncomment the following lines:
+#	name = Rajat Gorakhpuriya
+#	email = Rajat@DESKTOP-MJ28F78.(none)
+[core]
+	editor = code
+[diff]
+	tool = default-difftool
