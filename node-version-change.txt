@@ -1,0 +1,7 @@
+Inside .bashrc file add 
+the following lines for a particular version of node.
+
+useNode12() {
+    PATH = "/c/Node-Versions/node-v12.11.1-win-x64/:$PATH"
+    echo "Now using Node 12"
+}
